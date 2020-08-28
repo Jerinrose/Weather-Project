@@ -9,3 +9,5 @@ This website gets the city name as input from the user and displays the current 
 Weather deatils is obtained from https://openweathermap.org using api
 
 <img src="Capture.PNG">
+
+<img src="Capture1.PNG">
