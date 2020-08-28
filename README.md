@@ -7,3 +7,5 @@ This website gets the city name as input from the user and displays the current 
 **_Node.js_** is used
 
 Weather deatils is obtained from https://openweathermap.org using api
+
+<img src="Capture.PNG">
